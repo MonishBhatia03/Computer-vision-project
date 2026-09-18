@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600">
+<rect width="100%" height="100%" fill="white"/>
+<text x="500" y="55" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold">Class Diagram</text>
+
+<rect x="70" y="150" width="250" height="230" fill="none" stroke="black"/><text x="195" y="180" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">Detection</text><line x1="70" y1="195" x2="320" y2="195" stroke="black"/><text x="90" y="225" font-family="Arial" font-size="16">label</text><text x="90" y="250" font-family="Arial" font-size="16">confidence</text><text x="90" y="275" font-family="Arial" font-size="16">x1, y1, x2, y2</text>
+<rect x="375" y="120" width="250" height="290" fill="none" stroke="black"/><text x="500" y="150" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">HelmetDetector</text><line x1="375" y1="165" x2="625" y2="165" stroke="black"/><text x="395" y="195" font-family="Arial" font-size="16">model</text><text x="395" y="220" font-family="Arial" font-size="16">confidence</text><line x1="375" y1="240" x2="625" y2="240" stroke="black"/><text x="395" y="275" font-family="Arial" font-size="16">detect(frame)</text>
+<rect x="680" y="150" width="250" height="230" fill="none" stroke="black"/><text x="805" y="180" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">Statistics</text><line x1="680" y1="195" x2="930" y2="195" stroke="black"/><text x="700" y="230" font-family="Arial" font-size="16">total</text><text x="700" y="255" font-family="Arial" font-size="16">helmet</text><text x="700" y="280" font-family="Arial" font-size="16">no_helmet</text><line x1="320" y1="265" x2="375" y2="265" stroke="black"/><line x1="625" y1="265" x2="680" y2="265" stroke="black"/>
+
+</svg>

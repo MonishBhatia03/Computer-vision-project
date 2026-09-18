@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600">
+<rect width="100%" height="100%" fill="white"/>
+<text x="500" y="55" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold">Use Case</text>
+
+<ellipse cx="130" cy="300" rx="70" ry="110" fill="none" stroke="black"/><circle cx="130" cy="230" r="28" fill="none" stroke="black"/><line x1="130" y1="258" x2="130" y2="340" stroke="black"/><line x1="130" y1="280" x2="90" y2="315" stroke="black"/><line x1="130" y1="280" x2="170" y2="315" stroke="black"/><text x="130" y="440" text-anchor="middle" font-family="Arial" font-size="20">User</text>
+<rect x="300" y="90" width="600" height="420" fill="none" stroke="black"/>
+<text x="600" y="125" text-anchor="middle" font-family="Arial" font-size="22" font-weight="bold">Smart Vision</text>
+<ellipse cx="600" cy="190" rx="130" ry="35" fill="none" stroke="black"/><text x="600" y="197" text-anchor="middle" font-family="Arial" font-size="16">Detect Image</text>
+<ellipse cx="600" cy="270" rx="130" ry="35" fill="none" stroke="black"/><text x="600" y="277" text-anchor="middle" font-family="Arial" font-size="16">Detect Video</text>
+<ellipse cx="600" cy="350" rx="130" ry="35" fill="none" stroke="black"/><text x="600" y="357" text-anchor="middle" font-family="Arial" font-size="16">Detect Webcam</text>
+<ellipse cx="600" cy="430" rx="130" ry="35" fill="none" stroke="black"/><text x="600" y="437" text-anchor="middle" font-family="Arial" font-size="16">View / Save Results</text>
+<line x1="200" y1="260" x2="470" y2="190" stroke="black"/><line x1="200" y1="285" x2="470" y2="270" stroke="black"/><line x1="200" y1="310" x2="470" y2="350" stroke="black"/><line x1="200" y1="335" x2="470" y2="430" stroke="black"/>
+
+</svg>

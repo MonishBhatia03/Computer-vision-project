@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600">
+<rect width="100%" height="100%" fill="white"/>
+<text x="500" y="55" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold">Sequence</text>
+
+<text x="180" y="110" font-family="Arial" font-size="20" font-weight="bold">User</text><text x="400" y="110" font-family="Arial" font-size="20" font-weight="bold">CLI</text><text x="620" y="110" font-family="Arial" font-size="20" font-weight="bold">Processor</text><text x="840" y="110" font-family="Arial" font-size="20" font-weight="bold">Detector</text>
+<line x1="190" y1="130" x2="190" y2="500" stroke="black"/><line x1="410" y1="130" x2="410" y2="500" stroke="black"/><line x1="630" y1="130" x2="630" y2="500" stroke="black"/><line x1="850" y1="130" x2="850" y2="500" stroke="black"/>
+<line x1="190" y1="180" x2="410" y2="180" stroke="black"/><text x="300" y="170" text-anchor="middle" font-family="Arial" font-size="14">select mode</text>
+<line x1="410" y1="240" x2="630" y2="240" stroke="black"/><text x="520" y="230" text-anchor="middle" font-family="Arial" font-size="14">send input</text>
+<line x1="630" y1="300" x2="850" y2="300" stroke="black"/><text x="740" y="290" text-anchor="middle" font-family="Arial" font-size="14">detect(frame)</text>
+<line x1="850" y1="360" x2="630" y2="360" stroke="black"/><text x="740" y="350" text-anchor="middle" font-family="Arial" font-size="14">detections</text>
+<line x1="630" y1="420" x2="410" y2="420" stroke="black"/><text x="520" y="410" text-anchor="middle" font-family="Arial" font-size="14">result</text>
+<line x1="410" y1="470" x2="190" y2="470" stroke="black"/><text x="300" y="460" text-anchor="middle" font-family="Arial" font-size="14">display/save</text>
+
+</svg>

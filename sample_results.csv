@@ -1,0 +1,3 @@
+timestamp,source,label,confidence
+2026-09-17T20:00:00,sample,helmet,0.93
+2026-09-17T20:00:00,sample,no_helmet,0.87

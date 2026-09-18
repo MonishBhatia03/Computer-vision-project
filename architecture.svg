@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600">
+<rect width="100%" height="100%" fill="white"/>
+<text x="500" y="55" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold">Architecture</text>
+
+<rect x="350" y="100" width="300" height="60" fill="none" stroke="black"/><text x="500" y="138" text-anchor="middle" font-family="Arial" font-size="20">Command Line Interface</text>
+<line x1="500" y1="160" x2="500" y2="220" stroke="black" stroke-width="2"/>
+<rect x="150" y="220" width="200" height="70" fill="none" stroke="black"/><text x="250" y="262" text-anchor="middle" font-family="Arial" font-size="18">Image Processor</text>
+<rect x="400" y="220" width="200" height="70" fill="none" stroke="black"/><text x="500" y="262" text-anchor="middle" font-family="Arial" font-size="18">Video Processor</text>
+<rect x="650" y="220" width="200" height="70" fill="none" stroke="black"/><text x="750" y="262" text-anchor="middle" font-family="Arial" font-size="18">Webcam Processor</text>
+<line x1="250" y1="290" x2="500" y2="360" stroke="black"/><line x1="500" y1="290" x2="500" y2="360" stroke="black"/><line x1="750" y1="290" x2="500" y2="360" stroke="black"/>
+<rect x="350" y="360" width="300" height="70" fill="none" stroke="black"/><text x="500" y="402" text-anchor="middle" font-family="Arial" font-size="18">YOLO Helmet Detector</text>
+<line x1="500" y1="430" x2="500" y2="490" stroke="black"/>
+<rect x="350" y="490" width="300" height="60" fill="none" stroke="black"/><text x="500" y="528" text-anchor="middle" font-family="Arial" font-size="18">Output + Statistics + CSV</text>
+
+</svg>
